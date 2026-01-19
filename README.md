@@ -6,7 +6,7 @@ This repository takes a clear, hands-on approach to **Retrieval-Augmented Genera
 
 The goal is simple: provide code that is readable, modifiable, and educational. By focusing on the fundamentals, this project helps demystify RAG and makes it easier to understand how it really works.
 
-## 🚀 What's Inside?
+##  What's Inside?
 
 This repository contains a collection of Jupyter Notebooks, each focusing on a specific RAG technique.  Each notebook provides:
 
@@ -41,7 +41,7 @@ Here's a glimpse of the techniques covered:
 | [19. HyDE RAG](19_HyDE_rag.ipynb)             | Uses Hypothetical Document Embeddings to improve semantic matching.                                                                                              |
 | [20. CRAG](20_crag.ipynb)                     | Corrective RAG: Dynamically evaluates retrieval quality and uses web search as a fallback.                                                                           |
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```
 fareedkhan-dev-all-rag-techniques/
@@ -113,7 +113,7 @@ fareedkhan-dev-all-rag-techniques/
     **Note:** The `data/AI_information.pdf` file provides a sample document for testing. You can replace it with your own PDF.  The `data/val.json` file contains sample queries and ideal answers for evaluation.
     The 'attention_is_all_you_need.pdf' is for testing Multi-Modal RAG Notebook.
 
-## 💡 Core Concepts
+##  Core Concepts
 
 *   **Embeddings:**  Numerical representations of text that capture semantic meaning.  We use Nebius AI's embedding API and, in many notebooks, also the `BAAI/bge-en-icl` embedding model.
 
@@ -129,6 +129,7 @@ fareedkhan-dev-all-rag-techniques/
 
 *   **Evaluation:**  Assessing the quality of the RAG system's responses, often by comparing them to a reference answer or using an LLM to score relevance.
 
-## 🤝 Contributing
+##  Contributing
+
 
 Contributions are welcome!
